@@ -273,7 +273,7 @@ components:
             example: "Algorythmique"
            duration:
             type: string
-            example: "2h00"
+            example: "50h00"
            code:
             type: string
             example: "Prog1"
