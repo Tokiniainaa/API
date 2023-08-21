@@ -270,10 +270,13 @@ components:
           properties:
            name:
             type: string
+            example: "Algorythmique"
            duration:
             type: string
+            example: "2h00"
            code:
-            type: string 
+            type: string
+            example: "Prog1"
       xml:
         name: teacher
     Student:
